@@ -1,0 +1,28 @@
+.content {
+  padding: 40px 90px 12px 90px;
+  text-align: center;
+}
+.header {
+  color: blue;    
+  font-weight: 300px;
+}
+.story {
+  margin-top: 50px;
+  width: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 130%;
+}
+.paragraph {
+  width: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 130%;
+}
+.button{
+  width: 150px;
+  height: 45px;
+  color: white;
+  background-color: blue;
+  font-size: 15px;
+  border-color: aliceblue;
+  border-radius: 10px;
+}

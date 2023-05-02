@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "FirstWallet",
+        "details": "The Crown FirstWallet",
+        "nftCoverUrl": ""
+    },
+    {
+        "id":2,
+        "name": "SecondWallet",
+        "details": "The Crown SecondWallet",
+        "nftCoverUrl": ""
+    },
+    {
+        "id":3,
+        "name": "ThirdWallet",
+        "details": "The Crown ThirdWallet",
+        "nftCoverUrl": ""
+    },
+    {
+        "id":4,
+        "name": "FourthWallet",
+        "details": "The Crown FourthdWallet",
+        "nftCoverUrl": ""
+    },
+    {
+        "id":5,
+        "name": "FifthWallet",
+        "details": "The Crown FifthWallet",
+        "nftCoverUrl": ""
+    }
+]
